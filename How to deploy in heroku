@@ -1,0 +1,9 @@
+Step1:- Create a new conda environment
+        conda create -n Linearapp python==3.6.9
+Step2:- Install requirements.txt file
+        pip install -r requirements.txt
+Step3:- Create a file name as Profile
+        File with No extention
+        p should be in capital
+Step4:- Initialize your project as Git Project
+        git init
